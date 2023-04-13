@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/UESTC-Leap/UESTC-Leap">
-    <img alt="docsify" src="./docs/src/_media/henpan_logo.png" height="100">
+    <img alt="docsify" src="./docs/src/_media/hepan_logo.png" height="100">
   </a>
 </p>
 
