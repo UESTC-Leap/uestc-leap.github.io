@@ -1,8 +1,10 @@
 - 留学申请 (2)
 
-  - [电子科学与工程学院 (1)](grad-application/electronic/README.md)
+  - [电子科学与工程学院 (2)](grad-application/electronic/README.md)
   
   - [经济与管理学院 (1)](grad-application/economic-and-management/README.md)
+
+  - [未分类学院 (1)](grad-application/unknown/README.md)
 
 - 交流交换 (0)
 
