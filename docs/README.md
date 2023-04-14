@@ -17,8 +17,13 @@
 
 ## 近期更新
 
-- \[2022-04-05\] \[申请总结\] [18级-经管-LeviLee MS&PhD EE @ EC](grad-application/microelectronics/[US]-19-huangguanchao.md)
+- \[2022-04-05\] \[留学申请\] - [18级-LeviLee USC,Gatech,UMich,UCSD,NYU](留学申请/economic-and-management/[US]-18-LeviLee.md)
 
+- \[2019-06-01\] \[留学申请\] - [12-一介凡体 EPFL PhD](留学申请/electronic/[US]-12-一介凡体.md)
+
+- \[2013-05-22\] \[留学申请\] - [13-uestchgh Cambridge PhD](留学申请/electronic/[混申]-13-uestchgh.md)
+
+- \[2010-09-09\] \[留学申请\] - [06-黄神 PhD](留学申请/unknown/[US]-06-黄神.md)
 
 ## 飞跃手册是什么？
 
