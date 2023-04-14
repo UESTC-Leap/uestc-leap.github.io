@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs
 
-- [18级-LeviLee USC,Gatech,UMich,UCSD,NYU](grad-application/economic-and-management/[US]-18-LeviLee.md)
+- [18级-LeviLee USC,Gatech,UMich,UCSD,NYU](留学申请/economic-and-management/[US]-18-LeviLee.md)
 
 ##### 联培
 
