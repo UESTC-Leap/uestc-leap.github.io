@@ -16,12 +16,19 @@
 
 [电子科技大学飞跃手册](https://uestc-leap.github.io)
 
-### Contributing
+### 投稿/修改
 
-- Fork it!
-- Install dependency: `npm install` or `yarn install`
-- Run site locally: `npm run serve` or `yarn serve`
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git commit -am 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request
+#### 方式一：通过Github
+
+- 注：您的开发环境须有npm
+- Fork本仓库
+- 在仓库目录下安装依赖: `npm install` 或 `yarn install`
+- 本地运行: `npm run serve` 或 `yarn serve`
+- 创建分支: `git checkout -b my-new-feature`
+- 提交改动: `git commit -am 'Add some feature'`
+- 上传分支: `git push origin my-new-feature`
+- 提交Pull Request
+
+#### 方式二：线上投稿
+
+详情见[电子科技大学飞跃手册](https://uestc-leap.github.io)首页
